@@ -43,6 +43,11 @@
     }
 }
 
+@media only screen and (max-width : 450px) {
+    .container {margin:0 auto; width:100%; min-width:468px;
+       height:auto;}
+}
+
 // .social-fa{
 //     font-size: 3em;
 // } 
