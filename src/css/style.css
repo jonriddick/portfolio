@@ -28,7 +28,7 @@
 .social .fa {
   font-size: 1.5em; }
 
-@media only screen and (max-width: 450px) {
+@media only screen and (max-width: 480px) {
   .container {
     margin: 0 auto;
     width: 100%;
